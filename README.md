@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System: A Content-Based Approach from a Business Perspective
 
-![Movie Recommendation Banner]https://github.com/Jamestown34/Movie-Recommendation/blob/main/images/Screenshot%20(41).png <!-- 🔁 Replace with your image URL -->
+![]https://github.com/Jamestown34/Movie-Recommendation/blob/main/images/Screenshot%20(41).png <!-- 🔁 Replace with your image URL -->
 
 ## 📌 Introduction
 
