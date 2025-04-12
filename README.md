@@ -95,7 +95,7 @@ Registered for a TMDB API Key and used Python's `requests` library to extract mo
 
 To make the system interactive, we built a simple UI using **Gradio**.
 
-![Gradio UI](https://your-third-image-link.com) <!-- 🔁 Replace with actual image URL -->
+![Screenshot](https://github.com/Jamestown34/Movie-Recommendation/blob/main/Screenshot%20(42).png) <!-- 🔁 Replace with actual image URL -->
 
 Users can:
 
